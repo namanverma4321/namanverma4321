@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I have recently completed my Masters from IIT Kanpur, where my thesis work was to use Computer Vision to measure Runout(eccentricity) of a high speed rotating tool.
+- During my in IIT Kanpur, I have attended many subjects like Data Mining and Deep Learning.
+  
 <!--
 **namanverma4321/namanverma4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
