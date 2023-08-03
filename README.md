@@ -22,7 +22,7 @@ I am a passionate and driven individual with a Master's degree from IIT Kanpur. 
 - Completed online courses in Natural Language Processing using Transformers and AWS Sagemaker Practical for Beginners, expanding my knowledge and skill set.
 
 ## Interests
-I am enthusiastic about pushing the boundaries of computer vision and natural language processing applications. My curiosity drives me to explore innovative ideas and learn about the latest advancements in the field.
+I am enthusiastic about pushing the boundaries of natural language processing and computer vision applications. My curiosity drives me to explore innovative ideas and learn about the latest advancements in the field.
 
 ## Contact
 - Email: namanverma4321@gmail.com, nverma21@iitk.ac.in
