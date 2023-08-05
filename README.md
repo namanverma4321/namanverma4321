@@ -15,6 +15,8 @@ I am a passionate and driven individual with a Master's degree from IIT Kanpur. 
 - Image Processing
 - Data Mining
 - Deep Learning
+- Flask
+- HTML
 - Audio Processing
 
 
