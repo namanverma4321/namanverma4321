@@ -2,7 +2,7 @@
 
 ## About Me
 
-Data Analyst skilled in SQL, Python, Power Query, Databricks, and BI tools. Currently working in pricing and revenue analytics with a focus on automation, reporting, and data-driven decision support.
+Pricing Analyst skilled in SQL, Python, Power Query, Databricks, and BI tools. Currently working in pricing and revenue analytics with a focus on automation, reporting, and data-driven decision support.
 
 ## Skills
 
